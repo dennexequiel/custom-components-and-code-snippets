@@ -22,18 +22,24 @@ These steps will help you to contribute to this project properly:
 - Within the code snippet/component will be one **readme.md** file that best describes the code snippet/component.
 
 Example:
-| Top-level Folder | Sub-folder           |                    |              |              |
-| ---------------- |----------------------|--------------------|--------------|--------------|
-| Javascript       | Sample Snippet 1     | app.js             |              |              |
-|                  |                      | index.html         |              |              |
-|                  |                      | readme.md          |              |              |
-|                  |                      |                    |              |              |
-| Bootstrap        | Custom Components    | Pricing Component  | index.html   |              |              |                  |                      |                    | readme.md    |              |
-|                  |                      |                    |              |              |
-| Tailwind         | Custom Components    | Forms              | Form 1       | index.html   |
-|                  |                      |                    |              | readme.md    |
-|                  |                      |                    | Form 2       | index.html   |
-|                  |                      |                    |              | readme.md    |
+| Top-level Folder | Sub-folder        |                   |            |            |
+|------------------|-------------------|-------------------|------------|------------|
+| Javascript       | Sample Snippet 1  | app.js            |            |            |
+|                  |                   | index.html        |            |            |
+|                  |                   | readme.md         |            |            |
+|                  | Sample Snippet 2  | app.js            |            |            |
+|                  |                   | index.html        |            |            |
+|                  |                   | readme.md         |            |            |
+| &nbsp;           |                   |                   |            |            |
+| Bootstrap        | Custom Components | Pricing Component | index.html |            | 
+|                  |                   |                   | readme.md  |            |
+|                  | Snippets          | Navbar            | index.html |            |
+|                  |                   |                   | readme.md  |            |
+| &nbsp;           |                   |                   |            |            |
+| Tailwind         | Custom Components | Forms             | Form 1     | index.html |
+|                  |                   |                   |            | readme.md  |
+|                  |                   |                   | Form 2     | index.html |
+|                  |                   |                   |            | readme.md  |
 
 Thank you, and enjoy!
 
