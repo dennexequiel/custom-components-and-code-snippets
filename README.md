@@ -6,7 +6,8 @@ Are you looking for custom components or code snippets? You're on the right plac
 
 ## Contribution
 
-Any contributions are highly appreciated. For more details please read the the [Contribution Guide](./CONTRIBUTING.md).
+Any contributions are highly appreciated. For more details, please read the the [Contribution Guide](./CONTRIBUTING.md). Also, ensure that you understand our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 
 ## Sharing is Caring!
 
