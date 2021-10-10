@@ -17,8 +17,8 @@ These steps will help you to contribute to this project properly:
 
 ## Folder Structure
 
-- **Top-level folders** are the `CATEGORIES` of the code snippets.
-- Under each category will be a **sub-folder** for snippets/components. A sub-folder can have sub-folders if needed.
+- **Top-level folders** are the `CATEGORIES` of the snippets/components.
+- Under each category will be a **sub-folder** for `Snippets/Components`. A sub-folder can have sub-folders if needed.
 - Within the code snippet/component will be one **readme.md** file that best describes the code snippet/component.
 
 Example:
