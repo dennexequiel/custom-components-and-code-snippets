@@ -4,7 +4,7 @@
 Vue is a progressive framework for building user interfaces and one-page applications.
 
 Resources: 
-https://vuejs.org/
-https://vuejs.org/v2/guide/
-https://v3.vuejs.org/
-https://v3.vuejs.org/guide/introduction.html
+- https://vuejs.org/
+- https://vuejs.org/v2/guide/
+- https://v3.vuejs.org/
+- https://v3.vuejs.org/guide/introduction.html
