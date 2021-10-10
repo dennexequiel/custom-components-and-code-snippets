@@ -1,7 +1,7 @@
 # This Folder Is for Vue Snippets
 
 ## What Is What is Vue.js?
-Vue is a progressive framework for building user interfaces and one-page applications.
+Vue is a progressive JavaScript framework for building user interfaces and one-page applications.
 
 Resources: 
 - https://vuejs.org/
