@@ -1,4 +1,4 @@
-# This Folder Is for Vue Snippets
+# This Folder Is for Vue Snippets/Components
 
 ## What Is What is Vue.js?
 Vue is a progressive JavaScript framework for building user interfaces and one-page applications.

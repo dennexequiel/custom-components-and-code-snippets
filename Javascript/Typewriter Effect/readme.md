@@ -1,8 +1,8 @@
 ## Typewriter Effect
 
-This code snippet lets you display an array of words with typewriter effect in an HTML element with the class of typewriter-element.
+This code snippet lets you display a set of typewriter-effect words in an HTML element with class attribute with a value of "typewriter-element".
 
-If you want to add or delete words, go to the app.js and update the array named "phrases."
+Note: If you want to add or delete words, go to the app.js and update the array named "phrases."
 
 Example:
 ```
