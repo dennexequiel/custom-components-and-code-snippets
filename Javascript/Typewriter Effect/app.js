@@ -1,4 +1,4 @@
-const text = document.querySelector('.text-loop');
+const text = document.querySelector('.typewriter-element');
 const phrases = ["Programmer.", "Designer.", "Developer.", "Dreamer."];
 let i = 0;
 let j = 0;

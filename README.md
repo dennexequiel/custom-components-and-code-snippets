@@ -1,4 +1,4 @@
-## :computer: Code Snippets
+## :computer: Custom Components and Code Snippets
 
 ![Code Snippets Image](./banner.jpg)
 
